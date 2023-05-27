@@ -11,4 +11,6 @@ fn.calcularEdad(aNac,aActual)
 
 print("probando print")
 
+print("probando print y pull")
+
 
