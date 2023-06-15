@@ -13,4 +13,10 @@ print("probando print")
 
 print("probando print y pull")
 
+print("sumando.....")
+sumaT = fn.sumar(3,2)
+print(sumaT)
+
+print(fn.saludo2("pedro"))
+
 
